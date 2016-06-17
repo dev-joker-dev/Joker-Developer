@@ -1,19 +1,38 @@
 
 # Installation
 
-```sh
-# Install dependencies.
-# Tested on Ubuntu 14.04. For other OSs, check out https://github.com/yagop/telegram-bot/wiki/Installation
+تننصيب سورس  : Joker-Developer يارب بعجبكم
+تخلي هل امر حته يتحدث التيرمنل بعدهه اكمل
+sudo apt-get update 
+_____________________________________________
+وراهة خلي الكود هہ⇓ّٰـذا بلترمنال ودوس انتر
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
-
-# Let's install the bot.
-cd $HOME
-git clone https://github.com/dev-joker-dev/Joker-Developer.git -b supergroups
-cd Joker-Developer
+_____________________________________________
+افتح تيرمنال جديد ودز هاي ودوس انتر 
+git clone https://github.com/dev-joker-dev/Joker-Developer.git
+_____________________________________________
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+cd dev-joker-dev/Joker-Developer
+_____________________________________________
+وراهة هہّٰ⇓ـاي وهم دوس انتر
 chmod +x launch.sh
+_____________________________________________
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
 ./launch.sh install
-./launch.sh # Enter a phone number & confirmation code.
-```
+_____________________________________________
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+./launch.sh
+#ملاحظة انتطر لحد ميكمل ويطلب رقم تلفون
+_____________________________________________
+#Dev
+@devss_bot 
+_______________�______________________________
+افتح تيرمنل جديد اكتب فيه                   
+| sudo redis-server |
+وبعدها انتر وبعدها قم بتشغيل البوت 😚
+_____________________________________________
+#joker                                      //
+_____________________________________________/
 
 
 * * *
