@@ -208,7 +208,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-  "admin",
+"admin",
     "inrealm",
     "ingroup",
     "inpm",
@@ -279,20 +279,20 @@ function create_config( )
     "en-getfile",
     "me1"
     },
-    sudo_users = {190385827,0,0,0,0,tonumber(190385827,0)},--Sudo users
+    sudo_users = {190385827,0,0,0,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/dev-joker-dev/Joker-Developer
+https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@fuck_8_you)
-I M /-\ N (@fuck_8_you)
-Siyanew (@fuck_8_you)
-Rondoozle (@fuck_8_you)
-Seyedan (@fuck_8_you)
+Alphonse (@Iwals)
+I M /-\ N (@Imandaneshi)
+Siyanew (@Siyanew)
+Rondoozle (@Potus)
+Seyedan (@Seyedan25)
 
 Special thanks to:
 Juan Potato
@@ -301,8 +301,8 @@ Topkecleon
 Vamptacus
 
 Our channels:
-English: @help_tele
-arabi: @help_tele
+English: @TeleSeedCH
+Persian: @IranSeed
 ]],
     help_text_realm = [[
 Realm Commands:
