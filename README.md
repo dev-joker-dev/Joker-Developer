@@ -18,7 +18,7 @@ git clone https://github.com/dev-joker-dev/Joker-Developer.git
 _____________________________________________
 وراهة هہّٰ⇓ـاي وهم دوس انتر 
 
-cd dev-joker-dev/Joker-Developer
+cd Joker-Developer
 
 _____________________________________________
 وراهة هہّٰ⇓ـاي وهم دوس انتر
