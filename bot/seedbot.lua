@@ -208,38 +208,91 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
+  "admin",
     "inrealm",
     "ingroup",
     "inpm",
-    "banhammer",
+    "info",
     "stats",
-    "anti_spam",
     "owners",
-    "arabic_lock",
     "set",
     "get",
     "broadcast",
-    "download_media",
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "supergroup",
+    "msg_checks",
+    "plugins",
+    "help2",
+    "help3",
+    "help4",
+    "help",
+    "addbot",
+    "robot",
+    "textphoto",
+    "taks",
+    "voice",
+    "welcome",
+    "onxerviec",
+    "me",
+    "map",
+    "map1",
+    "insta",
+    "Feedback",
+    "commands",
+    "addsudo",
+    "Version",
+    "arbic_lock",
+    "anti-spam",
+    "replay",
+    "banhammer",
+    "sticker",
+    "block",
+    "super-info",
+    "getlink",
+    "renk",
+    "id2",
+    "image",
+    "h1",
+    "h2",
+    "h3",
+    "ar-supergroup",
+    "ar-banhammer",
+    "azan",
+    "azan1",
+    "weather1",
+    "wether",
+    "dev",
+    "boomzain",
+    "boomzain2",
+    "short2",
+    "sof",
+    "sof2",
+    "zhrafa_arab",
+    "aljaesh",
+    "fwd_lock",
+    "rm",
+    "getfile",
+    "rplay_bot",
+    "newgroup",
+    "en-getfile",
+    "me1"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {190385827,0,0,0,0,tonumber(190385827,0)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/dev-joker-dev/Joker-Developer
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+Alphonse (@fuck_8_you)
+I M /-\ N (@fuck_8_you)
+Siyanew (@fuck_8_you)
+Rondoozle (@fuck_8_you)
+Seyedan (@fuck_8_you)
 
 Special thanks to:
 Juan Potato
@@ -248,8 +301,8 @@ Topkecleon
 Vamptacus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+English: @help_tele
+arabi: @help_tele
 ]],
     help_text_realm = [[
 Realm Commands:
